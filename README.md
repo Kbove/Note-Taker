@@ -9,6 +9,8 @@ A simple application for taking and storing notes, which can be referenced later
 * [Installation](#Installation)
     
 * [User Story](#Usage)
+
+* [Screenshot](#Screenshot)
     
 * [License](#License)
     
@@ -25,6 +27,9 @@ The following necessary dependencies must be installed to run the application: R
     
 ## User Story <a id="Usage"></a>
 A quick and easy way to write reminders or keep track of todo's
+
+## Screenshot <a id="Screenshot"></a>
+![Screenshot](https://user-images.githubusercontent.com/89953218/143964766-739014d1-f52b-4665-8062-d37f8b474385.JPG)
     
 ## Licenses <a id="License"></a>
 Apache-2.0
