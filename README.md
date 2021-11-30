@@ -1,8 +1,8 @@
 # Note-Taker
-    https://github.com/Kbove/Note-Taker
+https://github.com/Kbove/Note-Taker
     
 ## Description
-    A simple application for taking and storing notes, which can be referenced later at any time.
+A simple application for taking and storing notes, which can be referenced later at any time.
     
 ## Table of Contents
     
@@ -21,24 +21,24 @@
 * [Questions](#Question)
     
 ## Installation <a id="Installation"></a>
-    The following necessary dependencies must be installed to run the application: Run it on any browser
+The following necessary dependencies must be installed to run the application: Run it on any browser
     
 ## User Story <a id="Usage"></a>
-    A quick and easy way to write reminders or keep track of todo's
+A quick and easy way to write reminders or keep track of todo's
     
 ## Licenses <a id="License"></a>
-    Apache-2.0
+Apache-2.0
     
 ## Badges <a id="Question"></a>
     
 ![License](https://img.shields.io/static/v1?label=license&message=Apache-2.0&color=red)
     
 ## Contributors <a id="Contributors"></a>
-    Contributors: Kyle Bove
+Contributors: Kyle Bove
     
 ## Tests <a id="Tests"></a>
-    Tests: Some trial and error
+Tests: Some trial and error
     
 ## Questions <a id="Question"></a>
-    Frequently Asked Questions: N/A
+Frequently Asked Questions: N/A
     
